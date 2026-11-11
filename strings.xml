@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiClone</string>
+    <string name="profile_name">MultiClone স্পেস</string>
+    <string name="tab_dashboard">ড্যাশবোর্ড</string>
+    <string name="tab_apps">অ্যাপ</string>
+    <string name="tab_clones">ক্লোন</string>
+    <string name="tab_settings">সেটিংস</string>
+    <string name="status_none">এখনও কোনো ক্লোন স্পেস নেই। অ্যাপের দ্বিতীয় কপি চালাতে একটি তৈরি করুন।</string>
+    <string name="status_ready">ক্লোন স্পেস প্রস্তুত। অ্যাপ ট্যাব থেকে অ্যাপ বাছাই করুন।</string>
+    <string name="status_inside">আপনি ক্লোন স্পেসের ভেতরে আছেন। এখানকার অ্যাপের ডেটা আপনার ব্যক্তিগত অ্যাপ থেকে আলাদা।</string>
+    <string name="create_space">ক্লোন স্পেস তৈরি করুন</string>
+    <string name="not_supported">এই ডিভাইস বা প্রস্তুতকারক ওয়ার্ক প্রোফাইল তৈরি করতে দেয় না।</string>
+    <string name="limits_title">সীমাবদ্ধতা</string>
+    <string name="limits_body">• অ্যান্ড্রয়েডের ওয়ার্ক প্রোফাইল ব্যবহার হয়; প্রতি ডিভাইসে একটি অতিরিক্ত স্পেস (কিছু ফোনে প্রাইভেট স্পেসও আছে)।\n• শুধু ফোনে ইনস্টল করা অ্যাপ যোগ করা যায়, এবং তা অ্যান্ড্রয়েড ৯+ এ। অ্যান্ড্রয়েড ৮-এ ওয়ার্ক প্রোফাইলের ভেতর প্লে স্টোর থেকে অ্যাপ ইনস্টল করুন।\n• কিছু অ্যাপ ওয়ার্ক প্রোফাইলে চলে না। MultiClone তা এড়াতে পারে না।\n• অফিসিয়াল API দিয়ে প্রতিটি অ্যাপের অসীম ক্লোন সম্ভব নয়।</string>
+    <string name="apps_title">ইনস্টল করা অ্যাপ</string>
+    <string name="clone_selected">%1$d টি অ্যাপ ক্লোন স্পেসে যোগ করুন</string>
+    <string name="need_space">আগে ড্যাশবোর্ডে ক্লোন স্পেস তৈরি করুন।</string>
+    <string name="need_api28">অ্যাপ যোগ করতে অ্যান্ড্রয়েড ৯ বা নতুন লাগবে।</string>
+    <string name="clone_requested">ক্লোন স্পেসে অনুরোধ পাঠানো হয়েছে।</string>
+    <string name="clone_failed">ক্লোন স্পেসে পৌঁছানো যায়নি।</string>
+    <string name="clone_result">%2$d টির মধ্যে %1$d টি অ্যাপ ক্লোন স্পেসে যোগ হয়েছে</string>
+    <string name="clones_title">ক্লোন ম্যানেজমেন্ট</string>
+    <string name="no_clones">ক্লোন স্পেসে এখনও কোনো অ্যাপ নেই।</string>
+    <string name="open">খুলুন</string>
+    <string name="open_failed">খোলা যায়নি। লঞ্চারের Work ট্যাব ব্যবহার করুন।</string>
+    <string name="remove_space">ক্লোন স্পেস মুছুন</string>
+    <string name="remove_confirm">এতে ক্লোন স্পেস এবং ভেতরের সব অ্যাপের ডেটা মুছে যাবে।</string>
+    <string name="yes">মুছুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="language">ভাষা</string>
+    <string name="otp_title">OTP কোড</string>
+    <string name="otp_body">MultiClone কখনও SMS বা নোটিফিকেশন পড়ে না। কোড নিজে টাইপ বা পেস্ট করুন। স্বয়ংক্রিয় পূরণ বন্ধ করতে অ্যাপের Autofill সার্ভিস “None” করুন এবং Google Messages / Google সেটিংসে ভেরিফিকেশন কোড অটোফিল বন্ধ করুন। আপনার SMS অ্যাপ ব্যক্তিগত প্রোফাইলে থাকে, তাই কোড সেখানে দেখে হাতে লিখুন।</string>
+    <string name="open_autofill">অটোফিল সেটিংস খুলুন</string>
+    <string name="open_settings">সিস্টেম সেটিংস খুলুন</string>
+</resources>
